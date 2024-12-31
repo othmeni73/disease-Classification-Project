@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\github\\workflows",
+    "\\research",
     "\\src",
     "\\src\\cnnClassifier",
     "\\src\\cnnClassifier\\utils"
   ],
-  "SelectedNode": "\\src\\cnnClassifier\\utils\\common.py",
+  "SelectedNode": "\\template.py",
   "PreviewInSolutionExplorer": false
 }
